@@ -1,17 +1,14 @@
 [Temperature-converter-using-html-css-js](https://hemantkumar980.github.io/Temperature-converter-using-html-css-js/)
 <br>
   <br>
-<div class="fluid-container" align="center">
-<h2>
-  Main Banner
-</h2>
-  <br>
+<div align="center">
+<h2>Main Banner</h2>
+ 
 ![temp converter](https://github.com/user-attachments/assets/3e6d69bc-7680-4866-92e4-d5b7d125bc46)
 <br>
-  <br>
-  <h3>
-  some sample images
-</h3>
+<br>
+<h3>some sample images</h3>
+
 ![Screenshot (150)](https://github.com/user-attachments/assets/7109da0e-81ec-4d7a-afb8-331d02ffab64)
   <br>
   <br>
